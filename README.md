@@ -20,7 +20,9 @@ Lalu jalankan aplikasi
 
 
 
+
 ## Dokumentasi Video
 
-<video src="dokumentasi.mp4" controls width="600"></video>
+[![Tonton di YouTube](https://img.youtube.com/vi/H0byCEWTez4/0.jpg)](https://youtu.be/H0byCEWTez4)
+
 

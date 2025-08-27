@@ -23,6 +23,7 @@ Lalu jalankan aplikasi
 
 ## Dokumentasi Video
 
-[![Tonton di YouTube](https://img.youtube.com/vi/H0byCEWTez4/0.jpg)](https://youtu.be/H0byCEWTez4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0byCEWTez4" frameborder="0" allowfullscreen></iframe>
+
 
 

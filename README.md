@@ -22,4 +22,5 @@ Lalu jalankan aplikasi
 
 ## Dokumentasi Video
 
-[![Tonton Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](docs/dokumentasi.mp4)
+<video src="dokumentasi.mp4" controls width="600"></video>
+
